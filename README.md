@@ -1,18 +1,15 @@
 # Color Palette Compiling Application // created with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-![image](https://user-images.githubusercontent.com/35004717/138964904-feda884d-19d3-4a82-9100-982d539bdbe9.png)
-
-
 Colors can be pinned on the palette with HEX, RGB or RGBA codes. </br>
 Saturation level can be changed, a selected emoji can be used to save the finished palette. </br>
 Palettes can be deleted from the main board.
 
+![image](https://user-images.githubusercontent.com/35004717/138964904-feda884d-19d3-4a82-9100-982d539bdbe9.png)
+
+
 ![image](https://user-images.githubusercontent.com/35004717/138964835-f1089fe8-344a-4423-806d-453d0c880382.png)
 
-
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
