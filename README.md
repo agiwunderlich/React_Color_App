@@ -1,6 +1,7 @@
 # Color Palette Compiling Application // created with React
 
-Colors can be pinned on the palette with HEX, RGB or RGBA codes. </br>
+The "React_Color_App" is a React application that provides a responsive and interactive user interface, with features such as creating new palettes, viewing individual palettes, selecting specific colors, and smooth transitions between different routes. </br> </br>
+Colors can be pinned on the palette with HEX, RGB or RGBA codes. </br> 
 Saturation level can be changed, a selected emoji can be used to save the finished palette. </br>
 Palettes can be deleted from the main board.
 
